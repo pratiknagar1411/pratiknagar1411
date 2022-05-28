@@ -1,4 +1,4 @@
-### Hello, I am Pratiok Nagar 👋
+### Hello, I am Pratik Nagar 👋
 
 <!--
 **pratiknagar1411/pratiknagar1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -24,7 +24,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCRQ77SxTf4WRoJEO6YNPakA).
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Full Stack Development or any tech related stuff.
-- 📫 How to reach me: [Linkedin - @PratikNagar](https://www.linkedin.com/in/pratik-nagar-122a5729/) , [Youtube - @PratikNagar]()
+- 📫 How to reach me: [Linkedin - @PratikNagar](https://www.linkedin.com/in/pratik-nagar-122a5729/) , [Youtube - @PratikNagar](https://www.youtube.com/channel/UCRf7LIlSRLAi0uXW1kPId1A/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 

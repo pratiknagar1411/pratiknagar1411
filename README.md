@@ -1,4 +1,4 @@
-### Hello, I am Pratik Nagar 👋
+
 ## Hello, I'm [Pratik Nagar!](https://pratiknagar1411.github.io/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="pratiknagar1411" /> </p>

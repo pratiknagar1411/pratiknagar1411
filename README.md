@@ -28,7 +28,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
-[![Linkedin: PratikNagar](https://img.shields.io/badge/-MoneshVenkul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-nagar-122a5729/)](https://www.linkedin.com/in/pratik-nagar-122a5729/)
+[![Linkedin: PratikNagar](https://img.shields.io/badge/-PratikNagar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-nagar-122a5729/)](https://www.linkedin.com/in/pratik-nagar-122a5729/)
 [![GitHub: PratikNagar](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/pratiknagar1411)
 
 
